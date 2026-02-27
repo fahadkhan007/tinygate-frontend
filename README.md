@@ -216,6 +216,16 @@ npm run build
 - Managed database service
 
 ---
+# 📸 Application Screenshots
+
+## 🔹 Home Page
+![Home Page](S1.jpeg)
+
+## 🔹 Short URL Generated
+![Short URL](S2.jpeg)
+
+## 🔹 Redirect Working
+![Redirect](S3.jpeg)
 
 # 👨‍💻 Author
 
