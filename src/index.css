@@ -1,0 +1,28 @@
+:root {
+  --bg-a: #f7efe4;
+  --bg-b: #f0d8b4;
+  --ink: #1f1a17;
+  --muted: #6c6259;
+  --card: #fffdfa;
+  --line: #dfd5ca;
+  --brand: #b34f2e;
+  --brand-dark: #923d21;
+  --ok: #1d7a4a;
+  --err: #a11b1b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  color: var(--ink);
+  background: radial-gradient(circle at top right, var(--bg-b), var(--bg-a));
+}
+
+a {
+  color: var(--brand-dark);
+}
