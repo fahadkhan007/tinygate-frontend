@@ -9,6 +9,7 @@ function getErrorMessage(error, fallback) {
   }
 
   return fallback;
+  
 }
 
 async function apiRequest(path, options = {}) {
