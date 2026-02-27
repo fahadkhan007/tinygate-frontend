@@ -37,7 +37,7 @@ It is built using:
 
 ## 🔹 Frontend
 - ReactJS
-- Axios
+- AxioS
 - Bootstrap / TailwindCSS
 
 ## 🔹 Database
@@ -46,7 +46,7 @@ It is built using:
 ## 🔹 DevOps & Cloud
 - Docker
 - AWS EC2
-- AWS S3
+- AWS s3
 - Nginx
 
 ---
